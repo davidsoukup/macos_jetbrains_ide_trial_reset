@@ -1,0 +1,1 @@
+# macos_jetbrains_ide_trial_reset
